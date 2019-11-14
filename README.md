@@ -1,4 +1,4 @@
-# 布蓝
+# 布袋
 预览地址：http://sunheqing.top/nav-1/dist/index.html
 
 * 键盘输入logo字母可以直接打开网址
